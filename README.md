@@ -69,10 +69,7 @@ Developed a weather alert system using the OpenWeather API and Twilio’s SMS se
 
 Detailed:
 Created a stock tracking system that monitors real-time price movements using financial APIs. When the price change of a selected stock exceeds a defined threshold, the app fetches relevant news articles and sends an SMS alert via the Twilio API. It demonstrates multi-API integration, data-driven decision logic, and automation for real-world financial updates — bridging Python programming with market analytics.
-<p align="center">
-  <img width="1440" height="900" alt="Stock_News" src="https://github.com/user-attachments/assets/0e5517a6-40ff-4339-a9d2-b673aa6b7c5c" />
-  <img width="750" height="1334" alt="TWILIO" src="https://github.com/user-attachments/assets/88bd1f62-554d-432e-85d4-9d9d65630b27" />
-
+<p align="center"><img width="1437" height="808" alt="merge" src="https://github.com/user-attachments/assets/24ee258e-e458-4ee0-ad6a-e146f5cf2920" />
 </p>
 ⸻
 
