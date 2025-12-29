@@ -261,11 +261,6 @@ Designed an interactive form application using Python’s Tkinter library. The G
 
 Detailed:
 Developed a productivity timer implementing the Pomodoro technique using Python’s Tkinter library. The app alternates between 25-minute focus sessions and 5-minute breaks, tracking the number of completed cycles with a visual interface. It emphasizes time management automation, UI control, and real-world application of loops and timers to encourage structured productivity habits.
-<p align="center">
-  <img width="645" height="570" alt="Pomodoro" src="https://github.com/user-attachments/assets/6ba2d223-a4f6-4dfb-b7b7-4c1c0a3a5226" />
-
-</p>
-
 
 ⸻
 
