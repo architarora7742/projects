@@ -2,8 +2,134 @@
 
 Welcome to my Python projects portfolio — a collection of applications built to strengthen my programming, problem-solving, and API integration skills. Each project highlights creativity, clean coding, and practical implementation of Python concepts.
 
+💬 Interested in a demo? Feel free to reach out to me if you’d like a walkthrough or a demonstration of any of these projects. I’m always happy to chat!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🚀 PIXELFLOW
+
+Photo & Video Sharing Platform (FastAPI)
+
+This repository contains the source code for PIXELFLOW, a photo and video sharing platform built using FastAPI. It demonstrates how to design and implement a real-world backend system that supports secure user authentication, media uploads, database integration, and frontend interaction.
+
+⸻
+
+📌 Project Overview
+
+The PIXELFLOW project showcases:
+	•	A FastAPI backend exposing RESTful endpoints for uploading and retrieving media posts
+	•	JWT-based authentication and authorization to secure user sessions and protected routes
+	•	Image and video upload integration using ImageKit for efficient media storage and delivery
+	•	A lightweight frontend interface (e.g., Streamlit) for login, uploads, and feed viewing
+	•	Asynchronous database operations using SQLAlchemy Async for scalability and performance
+
+This project reflects core concepts involved in building production-ready APIs, including schema validation, database modeling, secure routing, and media handling.
+
+⸻
+
+✨ Key Features
+
+🔐 User Authentication
+	•	Secure user registration and login using JWT tokens
+	•	Token-based access control for protected endpoints
+
+📸 Media Upload (Images & Videos)
+	•	Media files are uploaded to ImageKit
+	•	URLs and metadata are stored in the database
+
+📰 Feed System
+	•	Fetch and display uploaded posts with captions and media URLs
+
+⚙️ Async Database Access
+	•	Uses SQLAlchemy Async sessions for non-blocking database operations
+
+🖥️ Frontend Integration
+	•	Simple frontend layer demonstrating API consumption and user interaction
+
+⸻
+
+🛠️ Technologies Used
+	•	FastAPI – High-performance Python framework for APIs
+	•	SQLAlchemy Async – Asynchronous ORM and database toolkit
+	•	ImageKit – Media storage and delivery platform
+	•	JWT Authentication – Secure token-based authentication
+	•	Streamlit / Frontend UI – Lightweight interface for backend interaction
+  
+<p align="center">
+<img width="1440" height="900" alt="Screenshot 2025-12-28 at 12 16 45 PM" src="https://github.com/user-attachments/assets/68620023-0d74-4e20-96e6-aaa5ad0ef3cc" />
+<img width="1440" height="900" alt="Screenshot 2025-12-28 at 12 17 40 PM" src="https://github.com/user-attachments/assets/81543053-ae50-4661-984d-dff8172e37aa" />
+<img width="1440" height="900" alt="Screenshot 2025-12-28 at 12 17 44 PM" src="https://github.com/user-attachments/assets/ac2d8e0f-1db5-4239-8559-bd7e61cd5c86" />
+<img width="1440" height="900" alt="Screenshot 2025-12-28 at 12 17 59 PM" src="https://github.com/user-attachments/assets/ca4f69c4-be22-43fc-9142-3f658558911f" />
+<img width="1440" height="900" alt="Screenshot 2025-12-28 at 12 18 41 PM" src="https://github.com/user-attachments/assets/66d9de45-fcc3-4ab6-80a6-bae05719eaf7" />
+<img width="1440" height="900" alt="Screenshot 2025-12-28 at 12 18 46 PM" src="https://github.com/user-attachments/assets/8a2bbc58-6b23-47a8-9b64-f8921ac43884" />
+</p>
+
+⸻-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+🧩 Pydantic Data Validation
+
+A simple demonstration of Pydantic’s data validation capabilities in Python. This project highlights how to define strict data schemas, control accepted input types, and enforce consistent output formats. Pydantic ensures clean, reliable, and well-structured data, significantly reducing bugs and improving code reliability.
+<p align="center">
+<img width="1440" height="900" alt="Pydantic" src="https://github.com/user-attachments/assets/4fe7ba20-305e-48fb-a1e4-bd121e680116" />
+</p>
+⸻
+
+🗄️ SQLAlchemy Database ORM
+
+A hands-on demonstration of SQLAlchemy ORM, showing how to map Python classes to database tables and perform CRUD operations using Pythonic queries. The project also covers joins and relationships, enabling efficient handling of relational data without writing raw SQL.
+<p align="center">
+<img width="1440" height="900" alt="SQLAlchemy" src="https://github.com/user-attachments/assets/17339208-1ccc-42fe-b324-be7fe4a48d17" />
+</p>
+⸻
+
+⚡ Python Multiprocessing
+
+This project explores Python’s multiprocessing module, demonstrating how to utilize multiple CPU cores to execute tasks in parallel. It covers process creation, inter-process communication, synchronization, and performance optimization, showcasing how multiprocessing can dramatically reduce execution time for compute-heavy workloads.
+<p align="center">
+<img width="1440" height="900" alt="Multiprocessing" src="https://github.com/user-attachments/assets/bdb497ed-28c6-45c0-9fbf-0b71422fee3c" />
+</p>
+⸻
+
+🔄 Asynchronous Programming (Async / Await)
+
+A practical example of async/await in Python, illustrating how to perform non-blocking I/O operations. The project demonstrates concurrent execution of tasks such as network requests and file operations, improving responsiveness and overall application efficiency.
+<p align="center">
+<img width="1440" height="900" alt="Async_Await" src="https://github.com/user-attachments/assets/64ebdfc4-b74a-4953-ae8b-62e175a99fd5" />
+</p>
+⸻
+
+📊 Pandas Data Manipulation
+
+A comprehensive demonstration of pandas for data analysis and transformation. This project showcases DataFrames, Series, indexing, filtering, grouping, merging, and visualization techniques, highlighting how pandas simplifies working with structured datasets and extracting meaningful insights.
+<p align="center">
+<img width="1440" height="900" alt="Pandas" src="https://github.com/user-attachments/assets/424fcc7a-774d-40d7-bef0-4da566f89b1e" />
+</p>
+⸻
+
+🌐 Selenium Web Automation
+
+A browser automation project using Selenium WebDriver with Chrome. It demonstrates how to automate common web tasks such as navigation, form submission, button interaction, and data extraction—useful for testing, scraping, and workflow automation.
+<p align="center">
+<img width="1440" height="900" alt="Selenium" src="https://github.com/user-attachments/assets/be942cec-d2cf-4a64-a35d-62327a926e77" />
+</p>
+⸻
+
+📦 Pickle Serialization
+
+A lightweight project demonstrating Python’s pickle module for object serialization. It shows how to serialize Python objects to disk and deserialize them later, enabling state persistence and easy data recovery.
+<p align="center">
+<img width="1440" height="900" alt="Pickle" src="https://github.com/user-attachments/assets/bd1e0363-4607-4702-8085-b3725d1095ae" />
+</p>
+⸻
+
+✅ To-Do List Application
+
+A full-featured to-do list application built using Python, FastAPI, and Pydantic. It supports task creation, updates, and management while enforcing strict data validation. The project demonstrates clean API design, CRUD operations, and reliable data handling for a real-world productivity application.
+<p align="center">
+<img width="1440" height="900" alt="To_Do List" src="https://github.com/user-attachments/assets/b6521d37-ab0b-4001-a086-369dd7203bdc" />
+</p>
+⸻
 
 🕹️ Pong Arcade Game
 
