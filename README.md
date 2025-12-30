@@ -2,6 +2,13 @@
 
 Welcome to my Python projects portfolio — a collection of applications built to strengthen my programming, problem-solving, and API integration skills. Each project highlights creativity, clean coding, and practical implementation of Python concepts.
 
+⸻
+
+<b>Note</b>: 📁 Some of the project files are quite large, so I haven’t included them directly here. If you’d like access to these larger projects, I’ve mentioned a Google Drive link in my resume, or feel free to reach out to me directly for the details. Thanks for understanding!
+
+
+That way, you can keep it more private.
+
 💬 Interested in a demo? Feel free to reach out to me if you’d like a walkthrough or a demonstration of any of these projects. I’m always happy to chat!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
